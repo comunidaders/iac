@@ -71,3 +71,5 @@
 - **Recapitulação:** Revisão dos principais conceitos e práticas aprendidos.
 - **Próximos Módulos:** Antecipação do próximo conteúdo a ser explorado na mentoria.
 - **Incentivo à Prática:** Exploração da documentação oficial do Terraform e aplicação prática dos conceitos aprendidos.
+
+https://tilabslabaws01.awsapps.com/start/#/?tab=accounts
